@@ -2,11 +2,15 @@
 
 
 
+
+
 This challenge is an application that allows users to write notes and save & delete notes. 
 
 
 
 Creadits
+
+
 Jorge Martinez: Studying and do homework with Jorge. Jorge's GitHub: github.com/jamart01 
 
 Ben Gallagher (Classmate): Ben uploaded a video about this challenge on our class slack, which mad it easier to understand and helped me a lot do the challenge. 
